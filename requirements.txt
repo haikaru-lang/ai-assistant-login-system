@@ -1,0 +1,4 @@
+customtkinter
+bcrypt
+google-genai
+python-dotenv
